@@ -1,0 +1,23 @@
+{
+  "name": "export-pdf",
+  "version": "1.0.0",
+  "description": "Export HTML to PDF with pixel-perfect rendering using Puppeteer",
+  "main": "export-pdf.js",
+  "scripts": {
+    "export": "node export-pdf.js",
+    "export:url": "node export-pdf.js --url",
+    "export:file": "node export-pdf.js --file"
+  },
+  "keywords": [
+    "pdf",
+    "html",
+    "export",
+    "puppeteer",
+    "chrome"
+  ],
+  "author": "Matheus Schumacher",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^24.34.0"
+  }
+}
