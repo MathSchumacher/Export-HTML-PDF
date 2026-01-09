@@ -1,6 +1,7 @@
 # 📄 HTML to PDF Exporter
 
 Export HTML pages to PDF with **pixel-perfect rendering** using Puppeteer (Headless Chrome).
+Example: https://matheus-schumacher.vercel.app/Matheus-Schumacher-Resume.html
 
 ## ✨ Features
 
